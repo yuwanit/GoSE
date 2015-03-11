@@ -1,2 +1,0 @@
-# GoSE
-android application
